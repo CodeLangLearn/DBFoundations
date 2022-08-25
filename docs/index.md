@@ -2,7 +2,7 @@ Joji Tanase <br>
 8/24/2022 <br>
 IT FDN 130 <br>
 Assignment 7 <br>
-<u>[https://github.com/CodeLangLearn/DBFoundations](https://github.com/CodeLangLearn/DBFoundations_Module07)<u/><br>
+[https://github.com/CodeLangLearn/DBFoundations](https://github.com/CodeLangLearn/DBFoundations_Module07)<br>
 
 <h1 align="center">Module 07  - SQL UDF. Scalar, Inline, and Multi-Statement Functions</h1>
 
@@ -19,4 +19,3 @@ Multi-Statement Table-Valued Function (MSTVF) is a UDF that returns table a tabl
 
 ## Summary
 SQL UDF is a great tool for users for constraints, reducing repetition of code, and ETL. The three different types of UDF, Scalar, Inline, and Multi-Statement Table-Valued Functions are all very similar, but are different primarily because of what is used to define the result and the data that is returned from the function.
-
