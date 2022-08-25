@@ -1,10 +1,10 @@
-Joji Tanase
-8/24/2022
-IT FDN 130
-Assignment 7
-https://github.com/CodeLangLearn/DBFoundations
+Joji Tanase <br>
+8/24/2022 <br>
+IT FDN 130 <br>
+Assignment 7 <br>
+https://github.com/CodeLangLearn/DBFoundations <br>
 
-# <h1 align="center">Module 07  - SQL UDF. Scalar, Inline, and Multi-Statement Functions</h1>
+<h1 align="center">Module 07  - SQL UDF. Scalar, Inline, and Multi-Statement Functions</h1>
 
 ## Introduction
 I will first explain SQL User Defined Functions (UDF) and when it would be used. Next, I will go over the differences between Scalar, Inline, and Multi-Statement Functions.
