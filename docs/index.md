@@ -2,7 +2,7 @@
 8/24/2022 <br>
 IT FDN 130 <br>
 Assignment 7 <br>
-https://github.com/CodeLangLearn/DBFoundations <br>
+[https://github.com/CodeLangLearn/DBFoundations ](https://github.com/CodeLangLearn/DBFoundations_Module07)<br>
 
 <h1 align="center">Module 07  - SQL UDF. Scalar, Inline, and Multi-Statement Functions</h1>
 
